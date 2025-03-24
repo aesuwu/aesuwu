@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![Image](https://github.com/user-attachments/assets/11b79b79-c13a-4dc8-82bf-2b093ec55dae)
 <!--
 **aesuwu/aesuwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
