@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">I'm a Fourth-year IT student majoring in Database Systems Technology, with a strong passion for web development and UI design. Experienced in building dynamic and user-friendly web applications. Loves exploring new technologies and When I'm not coding, you can find me gaming—mostly playing Valorant, League of Legends, TFT, or exploring creative builds in Minecraft. >__<</p>
+<p align="left">I'm a Fourth-year IT student majoring in Database Systems Technology, with a strong passion for web development and UI design. Experienced in building dynamic and user-friendly web applications >__<</p>
 
 ###
 
