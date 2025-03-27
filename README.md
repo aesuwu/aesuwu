@@ -40,7 +40,7 @@
 
 <br clear="both">
 
-<h3 align="center">⋆౨ৎ˚⟡˖ ࣪ What i use ⋆౨ৎ˚⟡˖ ࣪</h3>
+<h3 align="center">⋆౨ৎ˚⟡˖ ࣪  What i use  ࣪ ˖⋆⟡˚ৎ౨⋆</h3>
 
 ###
 
