@@ -106,9 +106,5 @@
 
 <br clear="both">
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aesuwu&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=7&theme=rose_pine&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aesuwu&radius=16&theme=cotton-candy&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
 
 ###
